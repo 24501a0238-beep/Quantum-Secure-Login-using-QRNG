@@ -1,0 +1,6 @@
+Flask
+qiskit
+qiskit-aer
+numpy
+matplotlib
+gunicorn
